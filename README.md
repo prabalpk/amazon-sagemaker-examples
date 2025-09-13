@@ -10,7 +10,7 @@ SageMaker-Core is ideal for ML practitioners who seek full customization of AWS 
 
 ## Call to Action
 To learn more about SageMaker-Core, visit the [documentation](https://sagemaker-core.readthedocs.io) and [example notebooks](https://github.com/aws/amazon-sagemaker-examples/tree/default/sagemaker-core). Get started today by integrating SageMaker-Core into your machine learning workflows and experience the benefits of a streamlined and efficient development process.
-
+# prabal kuriya
 
 # Amazon SageMaker Examples
 
